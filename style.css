@@ -45,6 +45,7 @@ Author URI: https://mdbootstrap.com
 #whitespaces {
     padding-top: 1%;
     border-top: 5%;
+    position: relative;
 }
 
 header {

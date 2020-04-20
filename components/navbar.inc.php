@@ -1,5 +1,18 @@
-<header class="bg-info">
-  <nav class="navbar fixed-top navbar-expand-lg navbar-dark blue scrolling-navbar" id="whitespaces">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <!-- main navigation -->
+
+<header class="container">
+  <div class="header">
+    <p class="text-center">Biashara Space</p>
+  </div>
+  <nav class="navbar navbar-expand-lg navbar-dark blue scrolling-navbar" id="whitespaces">
     <a class="navbar-brand" href="#"><strong>Navbar</strong></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,4 +48,6 @@
   </nav>
 
 </header>
-<!--Main Navigation-->
+<!-- Main Navigation -->
+</body>
+</html>
