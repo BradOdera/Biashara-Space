@@ -1,16 +1,16 @@
 <?php get_header(); require_once('components/navbar.inc.php'); ?>
 
-    <!--Main Navigation-->
+    <!-- Main Navigation
     <header>
-        <!-- Intro -->
+        Intro
         <div class="card card-intro blue-gradient mb-4">
 
             <div class="card-body white-text rgba-black-light text-center pt-5 pb-4">
 
-                <!--Grid row-->
+                Grid row
                 <div class="row d-flex justify-content-center">
 
-                    <!--Grid column-->
+                    Grid column
                     <div class="col-md-6">
 
                         <h1 class="font-weight-bold mb-4">Biashara Space</h1>
@@ -20,18 +20,18 @@
                         </p>
 
                     </div>
-                    <!--Grid column-->
+                    Grid column
 
                 </div>
-                <!--Grid row-->
+                Grid row
 
             </div>
 
         </div>
-        <!-- Intro -->
+        Intro
 
     </header>
-    <!--Main Navigation-->
+    Main Navigation -->
 
     <!--Main layout-->
     <main>
